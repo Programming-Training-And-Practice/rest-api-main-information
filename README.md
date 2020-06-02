@@ -7,6 +7,8 @@
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
+* [Pros.](#pros)
+* [Cons.](#cons)
 * [Help](#help)
 
 
@@ -20,6 +22,19 @@
 
 
 ## Documentation.
+
+
+
+
+
+## Pros.
+
+
+
+
+
+## Cons.
+* Parsing JSON is actually CPU intensive.
 
 
 
